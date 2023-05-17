@@ -83,6 +83,7 @@ available_setting = {
     "wechatmp_app_secret": "",  # 微信公众平台的appsecret
     "wechatmp_aes_key": "",  # 微信公众平台的EncodingAESKey，加密模式需要
     # wechatcom的通用配置
+    "channel_type": "wechatcom_app",
     "wechatcom_corp_id": "",  # 企业微信公司的corpID
     # wechatcomapp的配置
     "wechatcomapp_token": "",  # 企业微信app的token
